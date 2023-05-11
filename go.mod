@@ -1,4 +1,4 @@
-module github.com/LeonelPerz/asdasd
+module github.com/LeonelPerz/simplebank
 
 go 1.20
 
